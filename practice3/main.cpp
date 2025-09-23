@@ -1,4 +1,4 @@
-////zadacha 1
+////zadacha 5.1
 // #include <iostream>
 // #include <iomanip>
 // using namespace std;
@@ -25,7 +25,7 @@
 // }
 
 
-////zadacha 2
+////zadacha 5.2
 // #include <iostream>
 // #include <iomanip>
 // using namespace std;
@@ -54,7 +54,7 @@
 //     cout << "\nvot nechetnie: \n" << nechet;
 // }
 
-////zadacha 3
+////zadacha 5.3
 // #include <iostream>
 // #include <iomanip>
 // using namespace std;
@@ -83,7 +83,7 @@
 //     cout << endl << "minimalnoe: " << min;
 // }
 
-////zadacha 4
+////zadacha 5.4
 // #include <iostream>
 // #include <iomanip>
 // using namespace std;
@@ -102,7 +102,7 @@
 // }
 
 
-////zadacha 5
+////zadacha 5.5
 // #include <iostream>
 // #include <iomanip>
 // using namespace std;
@@ -130,7 +130,7 @@
 // }
 
 
-////zadacha 6
+////zadacha 5.6
 // #include <iostream>
 // #include <iomanip>
 // using namespace std;
